@@ -1,6 +1,5 @@
 ## Live Demo: 
-https://Gauravpatil1.github.io/larus-hotel/
-
+](https://gaurapatil1.github.io/LARUS-HOTEL-WEBSITE/)
 # Template Website Hotel with HTML, CSS, JAVASCRIPT
 
 ## Screenshots
